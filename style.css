@@ -1,0 +1,61 @@
+body{
+
+    background-color:white ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+    }
+    
+    .header_div{
+    
+    color:white;
+    background-color: gray;
+    }
+    
+    .header_div p{
+    
+    font-family:'roboto',sans-serif;
+    letter-spacing:2px;
+    color:white;
+    font-weight:bold;
+    
+    }
+    
+    .main_div{
+    
+    background-color:rgba(139, 213, 245, 0.963);
+    
+    }
+    
+    button{
+    
+    margin-top:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    width:90px;
+    font-size:20px !important;
+    letter-spacing:3px ;
+    }
+    
+    #result_accuracy , #result_sound{
+    
+    font-size:19px ;
+    margin-top:20px;
+    }
+    
+    img{
+    
+    margin-top:50px;
+    margin-bottom:50px;
+    }
+    
+    .footer{
+    
+    position:fixed;
+    bottom:0;
+    background-color:grey;
+    width:100%;
+    text-align:center;
+    line-height:3;
+    color:white;
+    font-size:16px;
+    text-shadow: 3px 3px 5px black;
+    }
